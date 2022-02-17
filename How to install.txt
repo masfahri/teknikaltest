@@ -1,0 +1,6 @@
+Install Project
+1. Copy project ke folder root
+2. Comand
+	a. *composer install*
+	b. php artisan migrate --seed
+	c. php artisan serve || valet park && valet secure && valet link
